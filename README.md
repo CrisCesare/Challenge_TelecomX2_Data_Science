@@ -8,8 +8,8 @@ O projeto tem como finalidade utilizar técnicas de ciência de dados e análise
 ## 🛠️ Etapas da Análise
 O trabalho foi conduzido em Python, utilizando as bibliotecas pandas, matplotlib e seaborn. As etapas incluem:
 
-ETL (Extração, Transformação e Carga) de dados;
-Limpeza e normalização de dados;
-Criação de visualizações estratégicas;
-Análise Exploratória de Dados (EDA);
-Geração de insights para o negócio.
+- ETL (Extração, Transformação e Carga) de dados;
+- Limpeza e normalização de dados;
+- Criação de visualizações estratégicas;
+- Análise Exploratória de Dados (EDA);
+- Geração de insights para o negócio.
